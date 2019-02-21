@@ -7,7 +7,7 @@ global:
   reporting: true
 tests:
   sample:
-    #parameter_input: sample-input.json
+    parameter_input: static_website_params.json
     template_file: static_website.template
     regions:
     - us-east-1
