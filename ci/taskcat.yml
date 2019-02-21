@@ -17,7 +17,7 @@ global:
 tests:
   sample:
     parameter_input: sample-input.json
-    template_file: website.template
+    template_file: sample-json.template
     regions:
     - us-east-1
 
