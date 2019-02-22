@@ -7,8 +7,8 @@ global:
   reporting: true
 tests:
   sample:
-    parameter_input: static_website_params.json
-    template_file: static_website.template
+    #parameter_input: static_website_params.json
+    template_file: simple_example.yaml
     regions:
     - us-east-1
 
