@@ -7,7 +7,7 @@ global:
   reporting: true
 tests:
   sample:
-    parameter_input: sample_input.json
+    parameter_input: sample-input.json
     template_file: simple_example.yaml
     regions:
     - us-east-1
