@@ -8,7 +8,7 @@ global:
 tests:
   sample:
     parameter_input: sample-input.json
-    template_file: simple-json.json
+    template_file: sample-json.json
     regions:
     - us-east-1
 
