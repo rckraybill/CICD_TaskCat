@@ -1,7 +1,7 @@
 ---
 global:
-  owner: quickstart@amazon.com
-  qsname: quickstart-sample-project
+  owner: rckraybill@gmail.com
+  qsname: CICD_TaskCat
   regions:
     - us-east-1 
   reporting: true
